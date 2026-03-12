@@ -129,8 +129,6 @@ src/
 
 docs/
     wiring_diagram.png
-
-images/
     installed_system.jpg
 ```
 
@@ -138,6 +136,7 @@ images/
 
 ## Disclaimer
 
+⚠️ **Important:**
 This project may require working with 230 VAC systems, which should only be done by professionals!
 Improper wiring or configuration may cause equipment damage or personal injury.
 
